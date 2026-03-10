@@ -1,0 +1,14 @@
+D:\C#\traing\traing\bin\Debug\net10.0\traing.exe
+D:\C#\traing\traing\bin\Debug\net10.0\traing.deps.json
+D:\C#\traing\traing\bin\Debug\net10.0\traing.runtimeconfig.json
+D:\C#\traing\traing\bin\Debug\net10.0\traing.dll
+D:\C#\traing\traing\bin\Debug\net10.0\traing.pdb
+D:\C#\traing\traing\obj\Debug\net10.0\traing.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\traing\traing\obj\Debug\net10.0\traing.AssemblyInfoInputs.cache
+D:\C#\traing\traing\obj\Debug\net10.0\traing.AssemblyInfo.cs
+D:\C#\traing\traing\obj\Debug\net10.0\traing.csproj.CoreCompileInputs.cache
+D:\C#\traing\traing\obj\Debug\net10.0\traing.dll
+D:\C#\traing\traing\obj\Debug\net10.0\refint\traing.dll
+D:\C#\traing\traing\obj\Debug\net10.0\traing.pdb
+D:\C#\traing\traing\obj\Debug\net10.0\traing.genruntimeconfig.cache
+D:\C#\traing\traing\obj\Debug\net10.0\ref\traing.dll

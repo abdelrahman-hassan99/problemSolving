@@ -1,0 +1,15 @@
+D:\C#\bybble sort algorithm\bybble sort algorithm\obj\Debug\net5.0\bybble sort algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\bybble sort algorithm\bybble sort algorithm\obj\Debug\net5.0\bybble sort algorithm.AssemblyInfoInputs.cache
+D:\C#\bybble sort algorithm\bybble sort algorithm\obj\Debug\net5.0\bybble sort algorithm.AssemblyInfo.cs
+D:\C#\bybble sort algorithm\bybble sort algorithm\obj\Debug\net5.0\bybble sort algorithm.csproj.CoreCompileInputs.cache
+D:\C#\bybble sort algorithm\bybble sort algorithm\bin\Debug\net5.0\bybble sort algorithm.exe
+D:\C#\bybble sort algorithm\bybble sort algorithm\bin\Debug\net5.0\bybble sort algorithm.deps.json
+D:\C#\bybble sort algorithm\bybble sort algorithm\bin\Debug\net5.0\bybble sort algorithm.runtimeconfig.json
+D:\C#\bybble sort algorithm\bybble sort algorithm\bin\Debug\net5.0\bybble sort algorithm.runtimeconfig.dev.json
+D:\C#\bybble sort algorithm\bybble sort algorithm\bin\Debug\net5.0\bybble sort algorithm.dll
+D:\C#\bybble sort algorithm\bybble sort algorithm\bin\Debug\net5.0\bybble sort algorithm.pdb
+D:\C#\bybble sort algorithm\bybble sort algorithm\obj\Debug\net5.0\bybble sort algorithm.dll
+D:\C#\bybble sort algorithm\bybble sort algorithm\obj\Debug\net5.0\refint\bybble sort algorithm.dll
+D:\C#\bybble sort algorithm\bybble sort algorithm\obj\Debug\net5.0\bybble sort algorithm.pdb
+D:\C#\bybble sort algorithm\bybble sort algorithm\obj\Debug\net5.0\bybble sort algorithm.genruntimeconfig.cache
+D:\C#\bybble sort algorithm\bybble sort algorithm\obj\Debug\net5.0\ref\bybble sort algorithm.dll

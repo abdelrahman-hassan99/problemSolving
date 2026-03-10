@@ -1,0 +1,15 @@
+D:\C#\function to swap\function to swap\bin\Debug\net5.0\function to swap.exe
+D:\C#\function to swap\function to swap\bin\Debug\net5.0\function to swap.deps.json
+D:\C#\function to swap\function to swap\bin\Debug\net5.0\function to swap.runtimeconfig.json
+D:\C#\function to swap\function to swap\bin\Debug\net5.0\function to swap.runtimeconfig.dev.json
+D:\C#\function to swap\function to swap\bin\Debug\net5.0\function to swap.dll
+D:\C#\function to swap\function to swap\bin\Debug\net5.0\function to swap.pdb
+D:\C#\function to swap\function to swap\obj\Debug\net5.0\function to swap.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\function to swap\function to swap\obj\Debug\net5.0\function to swap.AssemblyInfoInputs.cache
+D:\C#\function to swap\function to swap\obj\Debug\net5.0\function to swap.AssemblyInfo.cs
+D:\C#\function to swap\function to swap\obj\Debug\net5.0\function to swap.csproj.CoreCompileInputs.cache
+D:\C#\function to swap\function to swap\obj\Debug\net5.0\function to swap.dll
+D:\C#\function to swap\function to swap\obj\Debug\net5.0\refint\function to swap.dll
+D:\C#\function to swap\function to swap\obj\Debug\net5.0\function to swap.pdb
+D:\C#\function to swap\function to swap\obj\Debug\net5.0\function to swap.genruntimeconfig.cache
+D:\C#\function to swap\function to swap\obj\Debug\net5.0\ref\function to swap.dll

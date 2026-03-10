@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\reverse array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC407F4B-6D2F-4D5F-AC87-D22DF47976A6}|reverse array\\reverse array.csproj|d:\\c#\\reverse array\\reverse array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC407F4B-6D2F-4D5F-AC87-D22DF47976A6}|reverse array\\reverse array.csproj|solutionrelative:reverse array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\reverse array\\reverse array\\Program.cs",
+              "RelativeDocumentMoniker": "reverse array\\Program.cs",
+              "ToolTip": "D:\\C#\\reverse array\\reverse array\\Program.cs",
+              "RelativeToolTip": "reverse array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:22:06.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

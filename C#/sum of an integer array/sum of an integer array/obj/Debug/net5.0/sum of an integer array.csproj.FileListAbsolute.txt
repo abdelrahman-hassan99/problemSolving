@@ -1,0 +1,15 @@
+D:\C#\sum of an integer array\sum of an integer array\obj\Debug\net5.0\sum of an integer array.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\sum of an integer array\sum of an integer array\obj\Debug\net5.0\sum of an integer array.AssemblyInfoInputs.cache
+D:\C#\sum of an integer array\sum of an integer array\obj\Debug\net5.0\sum of an integer array.AssemblyInfo.cs
+D:\C#\sum of an integer array\sum of an integer array\obj\Debug\net5.0\sum of an integer array.csproj.CoreCompileInputs.cache
+D:\C#\sum of an integer array\sum of an integer array\bin\Debug\net5.0\sum of an integer array.exe
+D:\C#\sum of an integer array\sum of an integer array\bin\Debug\net5.0\sum of an integer array.deps.json
+D:\C#\sum of an integer array\sum of an integer array\bin\Debug\net5.0\sum of an integer array.runtimeconfig.json
+D:\C#\sum of an integer array\sum of an integer array\bin\Debug\net5.0\sum of an integer array.runtimeconfig.dev.json
+D:\C#\sum of an integer array\sum of an integer array\bin\Debug\net5.0\sum of an integer array.dll
+D:\C#\sum of an integer array\sum of an integer array\bin\Debug\net5.0\sum of an integer array.pdb
+D:\C#\sum of an integer array\sum of an integer array\obj\Debug\net5.0\sum of an integer array.dll
+D:\C#\sum of an integer array\sum of an integer array\obj\Debug\net5.0\refint\sum of an integer array.dll
+D:\C#\sum of an integer array\sum of an integer array\obj\Debug\net5.0\sum of an integer array.pdb
+D:\C#\sum of an integer array\sum of an integer array\obj\Debug\net5.0\sum of an integer array.genruntimeconfig.cache
+D:\C#\sum of an integer array\sum of an integer array\obj\Debug\net5.0\ref\sum of an integer array.dll

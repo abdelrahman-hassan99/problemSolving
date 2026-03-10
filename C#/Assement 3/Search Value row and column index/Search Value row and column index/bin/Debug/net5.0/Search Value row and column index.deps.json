@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Search Value row and column index/1.0.0": {
+        "runtime": {
+          "Search Value row and column index.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Search Value row and column index/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

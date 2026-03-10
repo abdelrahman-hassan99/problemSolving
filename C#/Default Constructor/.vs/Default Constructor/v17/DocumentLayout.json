@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Default Constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25A53645-77F2-4443-B452-9D7A7764BC64}|Default Constructor\\Default Constructor.csproj|d:\\c#\\default constructor\\default constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A53645-77F2-4443-B452-9D7A7764BC64}|Default Constructor\\Default Constructor.csproj|solutionrelative:default constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Default Constructor\\Default Constructor\\Program.cs",
+              "RelativeDocumentMoniker": "Default Constructor\\Program.cs",
+              "ToolTip": "D:\\C#\\Default Constructor\\Default Constructor\\Program.cs",
+              "RelativeToolTip": "Default Constructor\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:18:26.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

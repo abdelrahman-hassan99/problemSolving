@@ -1,0 +1,15 @@
+D:\C#\Assement1\Assement1\bin\Debug\net5.0\Assement1.exe
+D:\C#\Assement1\Assement1\bin\Debug\net5.0\Assement1.deps.json
+D:\C#\Assement1\Assement1\bin\Debug\net5.0\Assement1.runtimeconfig.json
+D:\C#\Assement1\Assement1\bin\Debug\net5.0\Assement1.runtimeconfig.dev.json
+D:\C#\Assement1\Assement1\bin\Debug\net5.0\Assement1.dll
+D:\C#\Assement1\Assement1\bin\Debug\net5.0\Assement1.pdb
+D:\C#\Assement1\Assement1\obj\Debug\net5.0\Assement1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assement1\Assement1\obj\Debug\net5.0\Assement1.AssemblyInfoInputs.cache
+D:\C#\Assement1\Assement1\obj\Debug\net5.0\Assement1.AssemblyInfo.cs
+D:\C#\Assement1\Assement1\obj\Debug\net5.0\Assement1.csproj.CoreCompileInputs.cache
+D:\C#\Assement1\Assement1\obj\Debug\net5.0\Assement1.dll
+D:\C#\Assement1\Assement1\obj\Debug\net5.0\refint\Assement1.dll
+D:\C#\Assement1\Assement1\obj\Debug\net5.0\Assement1.pdb
+D:\C#\Assement1\Assement1\obj\Debug\net5.0\Assement1.genruntimeconfig.cache
+D:\C#\Assement1\Assement1\obj\Debug\net5.0\ref\Assement1.dll

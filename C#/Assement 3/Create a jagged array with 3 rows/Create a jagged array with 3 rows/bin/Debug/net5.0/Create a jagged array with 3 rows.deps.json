@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Create a jagged array with 3 rows/1.0.0": {
+        "runtime": {
+          "Create a jagged array with 3 rows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Create a jagged array with 3 rows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

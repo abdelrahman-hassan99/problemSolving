@@ -1,0 +1,15 @@
+D:\C#\asse\asse\bin\Debug\net5.0\asse.exe
+D:\C#\asse\asse\bin\Debug\net5.0\asse.deps.json
+D:\C#\asse\asse\bin\Debug\net5.0\asse.runtimeconfig.json
+D:\C#\asse\asse\bin\Debug\net5.0\asse.runtimeconfig.dev.json
+D:\C#\asse\asse\bin\Debug\net5.0\asse.dll
+D:\C#\asse\asse\bin\Debug\net5.0\asse.pdb
+D:\C#\asse\asse\obj\Debug\net5.0\asse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\asse\asse\obj\Debug\net5.0\asse.AssemblyInfoInputs.cache
+D:\C#\asse\asse\obj\Debug\net5.0\asse.AssemblyInfo.cs
+D:\C#\asse\asse\obj\Debug\net5.0\asse.csproj.CoreCompileInputs.cache
+D:\C#\asse\asse\obj\Debug\net5.0\asse.dll
+D:\C#\asse\asse\obj\Debug\net5.0\refint\asse.dll
+D:\C#\asse\asse\obj\Debug\net5.0\asse.pdb
+D:\C#\asse\asse\obj\Debug\net5.0\asse.genruntimeconfig.cache
+D:\C#\asse\asse\obj\Debug\net5.0\ref\asse.dll

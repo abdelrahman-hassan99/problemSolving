@@ -1,0 +1,15 @@
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\bin\Debug\net5.0\WeekDays class indexer.exe
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\bin\Debug\net5.0\WeekDays class indexer.deps.json
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\bin\Debug\net5.0\WeekDays class indexer.runtimeconfig.json
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\bin\Debug\net5.0\WeekDays class indexer.runtimeconfig.dev.json
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\bin\Debug\net5.0\WeekDays class indexer.dll
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\bin\Debug\net5.0\WeekDays class indexer.pdb
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\obj\Debug\net5.0\WeekDays class indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\obj\Debug\net5.0\WeekDays class indexer.AssemblyInfoInputs.cache
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\obj\Debug\net5.0\WeekDays class indexer.AssemblyInfo.cs
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\obj\Debug\net5.0\WeekDays class indexer.csproj.CoreCompileInputs.cache
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\obj\Debug\net5.0\WeekDays class indexer.dll
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\obj\Debug\net5.0\refint\WeekDays class indexer.dll
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\obj\Debug\net5.0\WeekDays class indexer.pdb
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\obj\Debug\net5.0\WeekDays class indexer.genruntimeconfig.cache
+D:\C#\Assement 4\WeekDays class indexer\WeekDays class indexer\obj\Debug\net5.0\ref\WeekDays class indexer.dll

@@ -1,0 +1,15 @@
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\bin\Debug\net5.0\Compare ref vs out in a Function.exe
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\bin\Debug\net5.0\Compare ref vs out in a Function.deps.json
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\bin\Debug\net5.0\Compare ref vs out in a Function.runtimeconfig.json
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\bin\Debug\net5.0\Compare ref vs out in a Function.runtimeconfig.dev.json
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\bin\Debug\net5.0\Compare ref vs out in a Function.dll
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\bin\Debug\net5.0\Compare ref vs out in a Function.pdb
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\obj\Debug\net5.0\Compare ref vs out in a Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\obj\Debug\net5.0\Compare ref vs out in a Function.AssemblyInfoInputs.cache
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\obj\Debug\net5.0\Compare ref vs out in a Function.AssemblyInfo.cs
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\obj\Debug\net5.0\Compare ref vs out in a Function.csproj.CoreCompileInputs.cache
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\obj\Debug\net5.0\Compare ref vs out in a Function.dll
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\obj\Debug\net5.0\refint\Compare ref vs out in a Function.dll
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\obj\Debug\net5.0\Compare ref vs out in a Function.pdb
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\obj\Debug\net5.0\Compare ref vs out in a Function.genruntimeconfig.cache
+D:\C#\Assement 3\Compare ref vs out in a Function\Compare ref vs out in a Function\obj\Debug\net5.0\ref\Compare ref vs out in a Function.dll

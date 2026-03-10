@@ -1,0 +1,15 @@
+D:\C#\Zeros between two ones\Zeros between two ones\bin\Debug\net5.0\Zeros between two ones.exe
+D:\C#\Zeros between two ones\Zeros between two ones\bin\Debug\net5.0\Zeros between two ones.deps.json
+D:\C#\Zeros between two ones\Zeros between two ones\bin\Debug\net5.0\Zeros between two ones.runtimeconfig.json
+D:\C#\Zeros between two ones\Zeros between two ones\bin\Debug\net5.0\Zeros between two ones.runtimeconfig.dev.json
+D:\C#\Zeros between two ones\Zeros between two ones\bin\Debug\net5.0\Zeros between two ones.dll
+D:\C#\Zeros between two ones\Zeros between two ones\bin\Debug\net5.0\Zeros between two ones.pdb
+D:\C#\Zeros between two ones\Zeros between two ones\obj\Debug\net5.0\Zeros between two ones.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Zeros between two ones\Zeros between two ones\obj\Debug\net5.0\Zeros between two ones.AssemblyInfoInputs.cache
+D:\C#\Zeros between two ones\Zeros between two ones\obj\Debug\net5.0\Zeros between two ones.AssemblyInfo.cs
+D:\C#\Zeros between two ones\Zeros between two ones\obj\Debug\net5.0\Zeros between two ones.csproj.CoreCompileInputs.cache
+D:\C#\Zeros between two ones\Zeros between two ones\obj\Debug\net5.0\Zeros between two ones.dll
+D:\C#\Zeros between two ones\Zeros between two ones\obj\Debug\net5.0\refint\Zeros between two ones.dll
+D:\C#\Zeros between two ones\Zeros between two ones\obj\Debug\net5.0\Zeros between two ones.pdb
+D:\C#\Zeros between two ones\Zeros between two ones\obj\Debug\net5.0\Zeros between two ones.genruntimeconfig.cache
+D:\C#\Zeros between two ones\Zeros between two ones\obj\Debug\net5.0\ref\Zeros between two ones.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Update Array from Method using ref/1.0.0": {
+        "runtime": {
+          "Update Array from Method using ref.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Update Array from Method using ref/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

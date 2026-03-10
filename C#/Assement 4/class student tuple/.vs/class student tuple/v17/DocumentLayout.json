@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Assement 4\\class student tuple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EE9209-E9CB-440E-9B1A-B1FA80BF221C}|class student tuple\\class student tuple.csproj|d:\\c#\\assement 4\\class student tuple\\class student tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EE9209-E9CB-440E-9B1A-B1FA80BF221C}|class student tuple\\class student tuple.csproj|solutionrelative:class student tuple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Assement 4\\class student tuple\\class student tuple\\Program.cs",
+              "RelativeDocumentMoniker": "class student tuple\\Program.cs",
+              "ToolTip": "D:\\C#\\Assement 4\\class student tuple\\class student tuple\\Program.cs",
+              "RelativeToolTip": "class student tuple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:57:31.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

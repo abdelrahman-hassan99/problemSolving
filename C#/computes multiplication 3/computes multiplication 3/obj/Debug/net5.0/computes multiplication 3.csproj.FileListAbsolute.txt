@@ -1,0 +1,15 @@
+D:\C#\computes multiplication 3\computes multiplication 3\bin\Debug\net5.0\computes multiplication 3.exe
+D:\C#\computes multiplication 3\computes multiplication 3\bin\Debug\net5.0\computes multiplication 3.deps.json
+D:\C#\computes multiplication 3\computes multiplication 3\bin\Debug\net5.0\computes multiplication 3.runtimeconfig.json
+D:\C#\computes multiplication 3\computes multiplication 3\bin\Debug\net5.0\computes multiplication 3.runtimeconfig.dev.json
+D:\C#\computes multiplication 3\computes multiplication 3\bin\Debug\net5.0\computes multiplication 3.dll
+D:\C#\computes multiplication 3\computes multiplication 3\bin\Debug\net5.0\computes multiplication 3.pdb
+D:\C#\computes multiplication 3\computes multiplication 3\obj\Debug\net5.0\computes multiplication 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\computes multiplication 3\computes multiplication 3\obj\Debug\net5.0\computes multiplication 3.AssemblyInfoInputs.cache
+D:\C#\computes multiplication 3\computes multiplication 3\obj\Debug\net5.0\computes multiplication 3.AssemblyInfo.cs
+D:\C#\computes multiplication 3\computes multiplication 3\obj\Debug\net5.0\computes multiplication 3.csproj.CoreCompileInputs.cache
+D:\C#\computes multiplication 3\computes multiplication 3\obj\Debug\net5.0\computes multiplication 3.dll
+D:\C#\computes multiplication 3\computes multiplication 3\obj\Debug\net5.0\refint\computes multiplication 3.dll
+D:\C#\computes multiplication 3\computes multiplication 3\obj\Debug\net5.0\computes multiplication 3.pdb
+D:\C#\computes multiplication 3\computes multiplication 3\obj\Debug\net5.0\computes multiplication 3.genruntimeconfig.cache
+D:\C#\computes multiplication 3\computes multiplication 3\obj\Debug\net5.0\ref\computes multiplication 3.dll

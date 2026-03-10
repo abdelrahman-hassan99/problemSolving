@@ -1,0 +1,15 @@
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\bin\Debug\net5.0\function c# that take array ,size , value position.exe
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\bin\Debug\net5.0\function c# that take array ,size , value position.deps.json
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\bin\Debug\net5.0\function c# that take array ,size , value position.runtimeconfig.json
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\bin\Debug\net5.0\function c# that take array ,size , value position.runtimeconfig.dev.json
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\bin\Debug\net5.0\function c# that take array ,size , value position.dll
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\bin\Debug\net5.0\function c# that take array ,size , value position.pdb
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\obj\Debug\net5.0\function c# that take array ,size , value position.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\obj\Debug\net5.0\function c# that take array ,size , value position.AssemblyInfoInputs.cache
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\obj\Debug\net5.0\function c# that take array ,size , value position.AssemblyInfo.cs
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\obj\Debug\net5.0\function c# that take array ,size , value position.csproj.CoreCompileInputs.cache
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\obj\Debug\net5.0\function c# that take array ,size , value position.dll
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\obj\Debug\net5.0\refint\function c# that take array ,size , value position.dll
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\obj\Debug\net5.0\function c# that take array ,size , value position.pdb
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\obj\Debug\net5.0\function c# that take array ,size , value position.genruntimeconfig.cache
+D:\C#\function c# that take array ,size , value position\function c# that take array ,size , value position\obj\Debug\net5.0\ref\function c# that take array ,size , value position.dll

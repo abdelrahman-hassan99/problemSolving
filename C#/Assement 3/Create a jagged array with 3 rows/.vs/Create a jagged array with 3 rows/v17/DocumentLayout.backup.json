@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NEW LAP\\source\\repos\\Create a jagged array with 3 rows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE80FC7-3074-45E3-B275-2F8420D22572}|Create a jagged array with 3 rows\\Create a jagged array with 3 rows.csproj|c:\\users\\new lap\\source\\repos\\create a jagged array with 3 rows\\create a jagged array with 3 rows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE80FC7-3074-45E3-B275-2F8420D22572}|Create a jagged array with 3 rows\\Create a jagged array with 3 rows.csproj|solutionrelative:create a jagged array with 3 rows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NEW LAP\\source\\repos\\Create a jagged array with 3 rows\\Create a jagged array with 3 rows\\Program.cs",
+              "RelativeDocumentMoniker": "Create a jagged array with 3 rows\\Program.cs",
+              "ToolTip": "C:\\Users\\NEW LAP\\source\\repos\\Create a jagged array with 3 rows\\Create a jagged array with 3 rows\\Program.cs",
+              "RelativeToolTip": "Create a jagged array with 3 rows\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:07:14.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

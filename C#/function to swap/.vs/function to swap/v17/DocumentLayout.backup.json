@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\function to swap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCB8B72-4C33-47C3-B236-9F46DA21E621}|function to swap\\function to swap.csproj|d:\\c#\\function to swap\\function to swap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCB8B72-4C33-47C3-B236-9F46DA21E621}|function to swap\\function to swap.csproj|solutionrelative:function to swap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\function to swap\\function to swap\\Program.cs",
+              "RelativeDocumentMoniker": "function to swap\\Program.cs",
+              "ToolTip": "D:\\C#\\function to swap\\function to swap\\Program.cs*",
+              "RelativeToolTip": "function to swap\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:57:16.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

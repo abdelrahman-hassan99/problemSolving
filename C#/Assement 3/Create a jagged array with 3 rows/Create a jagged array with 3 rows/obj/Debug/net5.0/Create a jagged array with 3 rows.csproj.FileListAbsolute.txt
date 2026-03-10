@@ -1,0 +1,15 @@
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\bin\Debug\net5.0\Create a jagged array with 3 rows.exe
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\bin\Debug\net5.0\Create a jagged array with 3 rows.deps.json
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\bin\Debug\net5.0\Create a jagged array with 3 rows.runtimeconfig.json
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\bin\Debug\net5.0\Create a jagged array with 3 rows.runtimeconfig.dev.json
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\bin\Debug\net5.0\Create a jagged array with 3 rows.dll
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\bin\Debug\net5.0\Create a jagged array with 3 rows.pdb
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\obj\Debug\net5.0\Create a jagged array with 3 rows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\obj\Debug\net5.0\Create a jagged array with 3 rows.AssemblyInfoInputs.cache
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\obj\Debug\net5.0\Create a jagged array with 3 rows.AssemblyInfo.cs
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\obj\Debug\net5.0\Create a jagged array with 3 rows.csproj.CoreCompileInputs.cache
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\obj\Debug\net5.0\Create a jagged array with 3 rows.dll
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\obj\Debug\net5.0\refint\Create a jagged array with 3 rows.dll
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\obj\Debug\net5.0\Create a jagged array with 3 rows.pdb
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\obj\Debug\net5.0\Create a jagged array with 3 rows.genruntimeconfig.cache
+C:\Users\NEW LAP\source\repos\Create a jagged array with 3 rows\Create a jagged array with 3 rows\obj\Debug\net5.0\ref\Create a jagged array with 3 rows.dll

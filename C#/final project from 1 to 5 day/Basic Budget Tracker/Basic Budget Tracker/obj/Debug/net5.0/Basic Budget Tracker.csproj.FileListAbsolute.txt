@@ -1,0 +1,15 @@
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\bin\Debug\net5.0\Basic Budget Tracker.exe
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\bin\Debug\net5.0\Basic Budget Tracker.deps.json
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\bin\Debug\net5.0\Basic Budget Tracker.runtimeconfig.json
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\bin\Debug\net5.0\Basic Budget Tracker.runtimeconfig.dev.json
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\bin\Debug\net5.0\Basic Budget Tracker.dll
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\bin\Debug\net5.0\Basic Budget Tracker.pdb
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\obj\Debug\net5.0\Basic Budget Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\obj\Debug\net5.0\Basic Budget Tracker.AssemblyInfoInputs.cache
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\obj\Debug\net5.0\Basic Budget Tracker.AssemblyInfo.cs
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\obj\Debug\net5.0\Basic Budget Tracker.csproj.CoreCompileInputs.cache
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\obj\Debug\net5.0\Basic Budget Tracker.dll
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\obj\Debug\net5.0\refint\Basic Budget Tracker.dll
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\obj\Debug\net5.0\Basic Budget Tracker.pdb
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\obj\Debug\net5.0\Basic Budget Tracker.genruntimeconfig.cache
+D:\C#\final project from 1 to 5 day\Basic Budget Tracker\Basic Budget Tracker\obj\Debug\net5.0\ref\Basic Budget Tracker.dll

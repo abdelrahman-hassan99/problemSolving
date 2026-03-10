@@ -1,0 +1,14 @@
+D:\C#\Holes\Holes\bin\Debug\net9.0\Holes.exe
+D:\C#\Holes\Holes\bin\Debug\net9.0\Holes.deps.json
+D:\C#\Holes\Holes\bin\Debug\net9.0\Holes.runtimeconfig.json
+D:\C#\Holes\Holes\bin\Debug\net9.0\Holes.dll
+D:\C#\Holes\Holes\bin\Debug\net9.0\Holes.pdb
+D:\C#\Holes\Holes\obj\Debug\net9.0\Holes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Holes\Holes\obj\Debug\net9.0\Holes.AssemblyInfoInputs.cache
+D:\C#\Holes\Holes\obj\Debug\net9.0\Holes.AssemblyInfo.cs
+D:\C#\Holes\Holes\obj\Debug\net9.0\Holes.csproj.CoreCompileInputs.cache
+D:\C#\Holes\Holes\obj\Debug\net9.0\Holes.dll
+D:\C#\Holes\Holes\obj\Debug\net9.0\refint\Holes.dll
+D:\C#\Holes\Holes\obj\Debug\net9.0\Holes.pdb
+D:\C#\Holes\Holes\obj\Debug\net9.0\Holes.genruntimeconfig.cache
+D:\C#\Holes\Holes\obj\Debug\net9.0\ref\Holes.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "computes multiplication 3/1.0.0": {
+        "runtime": {
+          "computes multiplication 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "computes multiplication 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

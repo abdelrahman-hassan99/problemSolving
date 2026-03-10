@@ -1,0 +1,15 @@
+D:\C#\prime number between two number\prime number between two number\bin\Debug\net5.0\prime number between two number.exe
+D:\C#\prime number between two number\prime number between two number\bin\Debug\net5.0\prime number between two number.deps.json
+D:\C#\prime number between two number\prime number between two number\bin\Debug\net5.0\prime number between two number.runtimeconfig.json
+D:\C#\prime number between two number\prime number between two number\bin\Debug\net5.0\prime number between two number.runtimeconfig.dev.json
+D:\C#\prime number between two number\prime number between two number\bin\Debug\net5.0\prime number between two number.dll
+D:\C#\prime number between two number\prime number between two number\bin\Debug\net5.0\prime number between two number.pdb
+D:\C#\prime number between two number\prime number between two number\obj\Debug\net5.0\prime number between two number.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\prime number between two number\prime number between two number\obj\Debug\net5.0\prime number between two number.AssemblyInfoInputs.cache
+D:\C#\prime number between two number\prime number between two number\obj\Debug\net5.0\prime number between two number.AssemblyInfo.cs
+D:\C#\prime number between two number\prime number between two number\obj\Debug\net5.0\prime number between two number.csproj.CoreCompileInputs.cache
+D:\C#\prime number between two number\prime number between two number\obj\Debug\net5.0\prime number between two number.dll
+D:\C#\prime number between two number\prime number between two number\obj\Debug\net5.0\refint\prime number between two number.dll
+D:\C#\prime number between two number\prime number between two number\obj\Debug\net5.0\prime number between two number.pdb
+D:\C#\prime number between two number\prime number between two number\obj\Debug\net5.0\prime number between two number.genruntimeconfig.cache
+D:\C#\prime number between two number\prime number between two number\obj\Debug\net5.0\ref\prime number between two number.dll

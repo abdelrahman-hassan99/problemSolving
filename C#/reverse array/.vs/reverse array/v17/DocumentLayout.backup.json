@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\reverse array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC407F4B-6D2F-4D5F-AC87-D22DF47976A6}|reverse array\\reverse array.csproj|d:\\c#\\reverse array\\reverse array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC407F4B-6D2F-4D5F-AC87-D22DF47976A6}|reverse array\\reverse array.csproj|solutionrelative:reverse array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\sum of an integer array\\sum of an integer array\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\sum of an integer array\\sum of an integer array\\Program.cs",
+              "RelativeDocumentMoniker": "..\\sum of an integer array\\sum of an integer array\\Program.cs",
+              "ToolTip": "D:\\C#\\sum of an integer array\\sum of an integer array\\Program.cs",
+              "RelativeToolTip": "..\\sum of an integer array\\sum of an integer array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:27:19.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\reverse array\\reverse array\\Program.cs",
+              "RelativeDocumentMoniker": "reverse array\\Program.cs",
+              "ToolTip": "D:\\C#\\reverse array\\reverse array\\Program.cs*",
+              "RelativeToolTip": "reverse array\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:22:06.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

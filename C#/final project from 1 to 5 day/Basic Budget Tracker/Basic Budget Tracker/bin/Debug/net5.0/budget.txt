@@ -1,0 +1,12 @@
+=== Budget Report ===
+Incomes:
++ $1,000.00
+
+Expenses:
+- $223.00
+- $1.00
+
+Summary:
+Total Income:    $1,000.00
+Total Expenses:  $224.00
+Balance:         $776.00

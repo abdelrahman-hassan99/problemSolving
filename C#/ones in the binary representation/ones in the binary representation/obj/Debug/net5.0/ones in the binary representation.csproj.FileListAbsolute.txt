@@ -1,0 +1,15 @@
+D:\C#\ones in the binary representation\ones in the binary representation\bin\Debug\net5.0\ones in the binary representation.exe
+D:\C#\ones in the binary representation\ones in the binary representation\bin\Debug\net5.0\ones in the binary representation.deps.json
+D:\C#\ones in the binary representation\ones in the binary representation\bin\Debug\net5.0\ones in the binary representation.runtimeconfig.json
+D:\C#\ones in the binary representation\ones in the binary representation\bin\Debug\net5.0\ones in the binary representation.runtimeconfig.dev.json
+D:\C#\ones in the binary representation\ones in the binary representation\bin\Debug\net5.0\ones in the binary representation.dll
+D:\C#\ones in the binary representation\ones in the binary representation\bin\Debug\net5.0\ones in the binary representation.pdb
+D:\C#\ones in the binary representation\ones in the binary representation\obj\Debug\net5.0\ones in the binary representation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ones in the binary representation\ones in the binary representation\obj\Debug\net5.0\ones in the binary representation.AssemblyInfoInputs.cache
+D:\C#\ones in the binary representation\ones in the binary representation\obj\Debug\net5.0\ones in the binary representation.AssemblyInfo.cs
+D:\C#\ones in the binary representation\ones in the binary representation\obj\Debug\net5.0\ones in the binary representation.csproj.CoreCompileInputs.cache
+D:\C#\ones in the binary representation\ones in the binary representation\obj\Debug\net5.0\ones in the binary representation.dll
+D:\C#\ones in the binary representation\ones in the binary representation\obj\Debug\net5.0\refint\ones in the binary representation.dll
+D:\C#\ones in the binary representation\ones in the binary representation\obj\Debug\net5.0\ones in the binary representation.pdb
+D:\C#\ones in the binary representation\ones in the binary representation\obj\Debug\net5.0\ones in the binary representation.genruntimeconfig.cache
+D:\C#\ones in the binary representation\ones in the binary representation\obj\Debug\net5.0\ref\ones in the binary representation.dll

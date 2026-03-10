@@ -1,0 +1,15 @@
+D:\C#\distinct and  repeated\distinct and  repeated\bin\Debug\net5.0\distinct and  repeated..exe
+D:\C#\distinct and  repeated\distinct and  repeated\bin\Debug\net5.0\distinct and  repeated..deps.json
+D:\C#\distinct and  repeated\distinct and  repeated\bin\Debug\net5.0\distinct and  repeated..runtimeconfig.json
+D:\C#\distinct and  repeated\distinct and  repeated\bin\Debug\net5.0\distinct and  repeated..runtimeconfig.dev.json
+D:\C#\distinct and  repeated\distinct and  repeated\bin\Debug\net5.0\distinct and  repeated..dll
+D:\C#\distinct and  repeated\distinct and  repeated\bin\Debug\net5.0\distinct and  repeated..pdb
+D:\C#\distinct and  repeated\distinct and  repeated\obj\Debug\net5.0\distinct and  repeated..GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\distinct and  repeated\distinct and  repeated\obj\Debug\net5.0\distinct and  repeated..AssemblyInfoInputs.cache
+D:\C#\distinct and  repeated\distinct and  repeated\obj\Debug\net5.0\distinct and  repeated..AssemblyInfo.cs
+D:\C#\distinct and  repeated\distinct and  repeated\obj\Debug\net5.0\distinct and  repeated..csproj.CoreCompileInputs.cache
+D:\C#\distinct and  repeated\distinct and  repeated\obj\Debug\net5.0\distinct and  repeated..dll
+D:\C#\distinct and  repeated\distinct and  repeated\obj\Debug\net5.0\refint\distinct and  repeated..dll
+D:\C#\distinct and  repeated\distinct and  repeated\obj\Debug\net5.0\distinct and  repeated..pdb
+D:\C#\distinct and  repeated\distinct and  repeated\obj\Debug\net5.0\distinct and  repeated..genruntimeconfig.cache
+D:\C#\distinct and  repeated\distinct and  repeated\obj\Debug\net5.0\ref\distinct and  repeated..dll

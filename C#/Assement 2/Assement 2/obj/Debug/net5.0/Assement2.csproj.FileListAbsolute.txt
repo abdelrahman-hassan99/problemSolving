@@ -1,0 +1,15 @@
+D:\C#\Assement 2\Assement 2\bin\Debug\net5.0\Assement2.exe
+D:\C#\Assement 2\Assement 2\bin\Debug\net5.0\Assement2.deps.json
+D:\C#\Assement 2\Assement 2\bin\Debug\net5.0\Assement2.runtimeconfig.json
+D:\C#\Assement 2\Assement 2\bin\Debug\net5.0\Assement2.runtimeconfig.dev.json
+D:\C#\Assement 2\Assement 2\bin\Debug\net5.0\Assement2.dll
+D:\C#\Assement 2\Assement 2\bin\Debug\net5.0\Assement2.pdb
+D:\C#\Assement 2\Assement 2\obj\Debug\net5.0\Assement2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assement 2\Assement 2\obj\Debug\net5.0\Assement2.AssemblyInfoInputs.cache
+D:\C#\Assement 2\Assement 2\obj\Debug\net5.0\Assement2.AssemblyInfo.cs
+D:\C#\Assement 2\Assement 2\obj\Debug\net5.0\Assement2.csproj.CoreCompileInputs.cache
+D:\C#\Assement 2\Assement 2\obj\Debug\net5.0\Assement2.dll
+D:\C#\Assement 2\Assement 2\obj\Debug\net5.0\refint\Assement2.dll
+D:\C#\Assement 2\Assement 2\obj\Debug\net5.0\Assement2.pdb
+D:\C#\Assement 2\Assement 2\obj\Debug\net5.0\Assement2.genruntimeconfig.cache
+D:\C#\Assement 2\Assement 2\obj\Debug\net5.0\ref\Assement2.dll

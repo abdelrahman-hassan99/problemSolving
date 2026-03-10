@@ -1,0 +1,15 @@
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\bin\Debug\net5.0\Enum in Switch Statement.exe
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\bin\Debug\net5.0\Enum in Switch Statement.deps.json
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\bin\Debug\net5.0\Enum in Switch Statement.runtimeconfig.json
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\bin\Debug\net5.0\Enum in Switch Statement.runtimeconfig.dev.json
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\bin\Debug\net5.0\Enum in Switch Statement.dll
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\bin\Debug\net5.0\Enum in Switch Statement.pdb
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\obj\Debug\net5.0\Enum in Switch Statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\obj\Debug\net5.0\Enum in Switch Statement.AssemblyInfoInputs.cache
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\obj\Debug\net5.0\Enum in Switch Statement.AssemblyInfo.cs
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\obj\Debug\net5.0\Enum in Switch Statement.csproj.CoreCompileInputs.cache
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\obj\Debug\net5.0\Enum in Switch Statement.dll
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\obj\Debug\net5.0\refint\Enum in Switch Statement.dll
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\obj\Debug\net5.0\Enum in Switch Statement.pdb
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\obj\Debug\net5.0\Enum in Switch Statement.genruntimeconfig.cache
+D:\C#\Assement 3\Enum in Switch Statement\Enum in Switch Statement\obj\Debug\net5.0\ref\Enum in Switch Statement.dll

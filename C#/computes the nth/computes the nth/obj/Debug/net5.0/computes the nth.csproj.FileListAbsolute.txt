@@ -1,0 +1,15 @@
+D:\C#\computes the nth\computes the nth\bin\Debug\net5.0\computes the nth.exe
+D:\C#\computes the nth\computes the nth\bin\Debug\net5.0\computes the nth.deps.json
+D:\C#\computes the nth\computes the nth\bin\Debug\net5.0\computes the nth.runtimeconfig.json
+D:\C#\computes the nth\computes the nth\bin\Debug\net5.0\computes the nth.runtimeconfig.dev.json
+D:\C#\computes the nth\computes the nth\bin\Debug\net5.0\computes the nth.dll
+D:\C#\computes the nth\computes the nth\bin\Debug\net5.0\computes the nth.pdb
+D:\C#\computes the nth\computes the nth\obj\Debug\net5.0\computes the nth.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\computes the nth\computes the nth\obj\Debug\net5.0\computes the nth.AssemblyInfoInputs.cache
+D:\C#\computes the nth\computes the nth\obj\Debug\net5.0\computes the nth.AssemblyInfo.cs
+D:\C#\computes the nth\computes the nth\obj\Debug\net5.0\computes the nth.csproj.CoreCompileInputs.cache
+D:\C#\computes the nth\computes the nth\obj\Debug\net5.0\computes the nth.dll
+D:\C#\computes the nth\computes the nth\obj\Debug\net5.0\refint\computes the nth.dll
+D:\C#\computes the nth\computes the nth\obj\Debug\net5.0\computes the nth.pdb
+D:\C#\computes the nth\computes the nth\obj\Debug\net5.0\computes the nth.genruntimeconfig.cache
+D:\C#\computes the nth\computes the nth\obj\Debug\net5.0\ref\computes the nth.dll

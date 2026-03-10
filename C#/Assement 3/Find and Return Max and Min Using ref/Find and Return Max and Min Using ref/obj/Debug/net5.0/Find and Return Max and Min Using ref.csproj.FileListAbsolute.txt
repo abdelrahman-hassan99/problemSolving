@@ -1,0 +1,15 @@
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\bin\Debug\net5.0\Find and Return Max and Min Using ref.exe
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\bin\Debug\net5.0\Find and Return Max and Min Using ref.deps.json
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\bin\Debug\net5.0\Find and Return Max and Min Using ref.runtimeconfig.json
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\bin\Debug\net5.0\Find and Return Max and Min Using ref.runtimeconfig.dev.json
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\bin\Debug\net5.0\Find and Return Max and Min Using ref.dll
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\bin\Debug\net5.0\Find and Return Max and Min Using ref.pdb
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\obj\Debug\net5.0\Find and Return Max and Min Using ref.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\obj\Debug\net5.0\Find and Return Max and Min Using ref.AssemblyInfoInputs.cache
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\obj\Debug\net5.0\Find and Return Max and Min Using ref.AssemblyInfo.cs
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\obj\Debug\net5.0\Find and Return Max and Min Using ref.csproj.CoreCompileInputs.cache
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\obj\Debug\net5.0\Find and Return Max and Min Using ref.dll
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\obj\Debug\net5.0\refint\Find and Return Max and Min Using ref.dll
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\obj\Debug\net5.0\Find and Return Max and Min Using ref.pdb
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\obj\Debug\net5.0\Find and Return Max and Min Using ref.genruntimeconfig.cache
+D:\C#\Assement 3\Find and Return Max and Min Using ref\Find and Return Max and Min Using ref\obj\Debug\net5.0\ref\Find and Return Max and Min Using ref.dll
